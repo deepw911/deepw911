@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" alt="GIF" src="https://github.com/deepw911/deepw911/blob/master/code.gif?raw=true" width="500" height="175px" /></a>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deep</h1>
 <h3 align="center">I'm a passionate pre final year student from VNIT, Nagpur.</h3>
 <h3 align="center">📄<a href=""> My Resume </a> </h3></div>

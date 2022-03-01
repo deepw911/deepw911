@@ -20,6 +20,10 @@
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 ## By the way here are some of my statistics 🚀
+<div>
+   <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=deepw911&show_icons=true&theme=react" alt="zumrudu-anka" />
+   <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=deepw911&theme=react" alt="mystreak" />
+</div>
 ![deepw911's github stats](https://github-readme-stats.vercel.app/api?username=deepw911&show_icons=true&theme=react)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepw911&theme=react" alt="mystreak"/>
 ![deepw911's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepw911&theme=react&layout=compact)

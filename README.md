@@ -6,7 +6,7 @@
 <img align="center" height="50%" alt="GIF" src="https://github.com/deepw911/deepw911/blob/48051b001a2c0f5407710300f0092977f3c4e535/giphy.gif" width="50%"/>
 </div>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deep</h1>
-<h3 align="center">I'm a passionate Software Engineer working at J P Morgan Chase & Co.</h3>
+<h3 align="center">I'm a passionate Software Engineer working at JP Morgan Chase & Co.</h3>
 <h3 align="center">📄<a href="https://drive.google.com/file/d/11v35zXqRbnrhnrz2jtWBXZ5fqyaHAEIZ/view?usp=share_link"> My Resume </a> </h3></div>
 
 ## 🙋‍♂️ About Me

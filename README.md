@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in **Web Development and Android Development.**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 🌱 I’m did my Bachelor's from [VNIT Nagpur](https://vnit.ac.in/) in Computer Science and Engineering.(batch of 2023)
+- 🌱 I did my Bachelor's from [VNIT Nagpur](https://vnit.ac.in/) in Computer Science and Engineering.(batch of 2023)
 - 💻 I’m a self-taught developer and I’m learning JavaScript, React, Node.js, and more.
 <!-- - 🎸 I love singing and playing the guitar in my free time.
 - ⚡ I like sketching and digital drawing, I also love to sketch my favourite anime characters. -->

@@ -7,7 +7,7 @@
 </div>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deep</h1>
 <h3 align="center">I'm a passionate Software Engineer working at JP Morgan Chase & Co.</h3>
-<h3 align="center">📄<a href="https://drive.google.com/file/d/11v35zXqRbnrhnrz2jtWBXZ5fqyaHAEIZ/view?usp=share_link"> My Resume </a> </h3></div>
+<h3 align="center">📄<a href="https://drive.google.com/file/d/1aJ8fqcUPPYUhFBzjkdzsAUNTNzJG_rfN/view?usp=drive_link"> My Resume </a> </h3></div>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in **Web Development and Android Development.**
